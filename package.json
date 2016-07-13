@@ -1,0 +1,25 @@
+{
+  "name": "pick-attributes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jquense/pick-attributes.git"
+  },
+  "author": "jquense",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jquense/pick-attributes/issues"
+  },
+  "homepage": "https://github.com/jquense/pick-attributes#readme",
+  "description": "",
+  "dependencies": {
+    "html-attributes": "^1.1.0"
+  }
+}
